@@ -1,0 +1,16 @@
+{
+    "螺纹钢跨期套利": {
+        "class_name": "BasicSpreadStrategy",
+        "spread_name": "rb_12_10",
+        "setting": {
+            "class_name": "BasicSpreadStrategy",
+            "buy_price": -80.0,
+            "sell_price": 30.0,
+            "cover_price": 60.0,
+            "short_price": -50.0,
+            "max_pos": 1.0,
+            "payup": 10,
+            "interval": 5
+        }
+    }
+}

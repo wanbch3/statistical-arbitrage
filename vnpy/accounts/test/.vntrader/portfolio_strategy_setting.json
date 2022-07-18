@@ -1,0 +1,17 @@
+{
+    "套利策略": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "CF8888.CZCE",
+            "CY8888.CZCE"
+        ],
+        "setting": {
+            "price_add": 5,
+            "boll_window": 20,
+            "boll_dev": 2,
+            "fixed_size": 1,
+            "leg1_ratio": 1,
+            "leg2_ratio": 1
+        }
+    }
+}

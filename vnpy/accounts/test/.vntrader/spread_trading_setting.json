@@ -1,0 +1,21 @@
+[
+    {
+        "name": "rb_12_10",
+        "leg_settings": [
+            {
+                "vt_symbol": "rb2201.SHFE",
+                "price_multiplier": 1,
+                "trading_multiplier": 1,
+                "inverse_contract": false
+            },
+            {
+                "vt_symbol": "rb2110.SHFE",
+                "price_multiplier": -1,
+                "trading_multiplier": -1,
+                "inverse_contract": false
+            }
+        ],
+        "active_symbol": "rb2201.SHFE",
+        "min_volume": 1.0
+    }
+]

@@ -1,0 +1,44 @@
+{
+    "海龟策略1": {
+        "class_name": "TurtleSignalStrategy",
+        "vt_symbol": "AG8888.SHFE",
+        "start": "2019-9-1",
+		"end": "2020-11-1",
+        "interval": "d",
+        "rate": 2.5e-05,
+        "slippage": 0.2,
+        "size": 15.0,
+        "pricetick": 0.2,
+        "capital": 1000000.0,
+        "inverse": false,
+        "hotdata": 1
+    },
+    "海龟策略2": {
+        "class_name": "TurtleSignalStrategy",
+        "vt_symbol": "AU8888.SHFE",
+		"start": "2019-9-1",
+		"end": "2020-11-1",
+        "interval": "1h",
+        "rate": 2.5e-05,
+        "slippage": 0.2,
+        "size": 15.0,
+        "pricetick": 0.2,
+        "capital": 1000000.0,
+        "inverse": false,
+        "hotdata": 1
+    },
+    "海龟策略3": {
+        "class_name": "TurtleSignalStrategy",
+        "vt_symbol": "NI8888.SHFE",
+		"start": "2019-9-1",
+		"end": "2020-11-1",
+        "interval": "30m",
+        "rate": 2.5e-05,
+        "slippage": 0.2,
+        "size": 15.0,
+        "pricetick": 0.2,
+        "capital": 1000000.0,
+        "inverse": false,
+        "hotdata": 1
+    }
+}

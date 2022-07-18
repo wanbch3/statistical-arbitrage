@@ -1,0 +1,62 @@
+{
+    "C_FAL_007": {
+        "pos": -3,
+        "kk_up": 2687.561380123745,
+        "kk_down": 2676.0164698762546,
+        "intra_trade_low": 2675.0,
+        "intra_trade_high": 2685.0
+    },
+    "CU_FAL_004": {
+        "pos": 0,
+        "kk_up": 64516.47362842262,
+        "kk_down": 61402.52637157738,
+        "intra_trade_low": 70061.299,
+        "intra_trade_high": 70141.76299999999
+    },
+    "Y_FAL_005": {
+        "pos": 2,
+        "kk_up": 9234.93291861112,
+        "kk_down": 9123.491031388887,
+        "intra_trade_low": 9166.0,
+        "intra_trade_high": 9260.0
+    },
+    "AP_FAL_003": {
+        "pos": 2,
+        "kk_up": 8224.847524898329,
+        "kk_down": 8022.870425101682,
+        "intra_trade_low": 7979.0,
+        "intra_trade_high": 8196.0
+    },
+    "RB_FAL_002": {
+        "pos": -5,
+        "kk_up": 3994.7996694087915,
+        "kk_down": 3933.97943059121,
+        "intra_trade_low": 3923.0,
+        "intra_trade_high": 3957.0
+    },
+    "I_FAL_006": {
+        "pos": -1,
+        "kk_up": 531.1056003001195,
+        "kk_down": 523.0182996998808,
+        "intra_trade_low": 518.0,
+        "intra_trade_high": 522.5
+    },
+    "十年国债": {
+        "pos": 0,
+        "boll_up": 100.08999999411532,
+        "boll_down": 100.0525000058849,
+        "cci_value": -62.500000000577316,
+        "atr_value": 0.009422972701391997,
+        "intra_trade_high": 100.09,
+        "intra_trade_low": 100.065,
+        "long_stop": 100.03346216379165,
+        "short_stop": 100.02351862865063
+    },
+    "JD_FAL_008": {
+        "pos": 2,
+        "kk_up": 4458.923349314382,
+        "kk_down": 4414.876650685617,
+        "intra_trade_low": 4414.0,
+        "intra_trade_high": 4462.0
+    }
+}

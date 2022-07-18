@@ -1,0 +1,120 @@
+{
+    "RB_FAL_002": {
+        "class_name": "FALRealStrategy",
+        "vt_symbol": "RB8888.SHFE",
+        "setting": {
+            "class_name": "FALRealStrategy",
+            "sma_n": 40,
+            "atr_n": 40,
+            "kk_dev": 1.6,
+            "trailing_percent": 1.4,
+            "stop": 0,
+            "atr_ratio": 0.5,
+            "cci_window": 10,
+            "fixed_size": 5
+        }
+    },
+    "AP_FAL_003": {
+        "class_name": "FALRealStrategy",
+        "vt_symbol": "AP8888.CZCE",
+        "setting": {
+            "class_name": "FALRealStrategy",
+            "sma_n": 40,
+            "atr_n": 40,
+            "kk_dev": 1.6,
+            "trailing_percent": 1.4,
+            "stop": 0,
+            "atr_ratio": 0.5,
+            "cci_window": 10,
+            "fixed_size": 2
+        }
+    },
+    "CU_FAL_004": {
+        "class_name": "FALRealStrategy",
+        "vt_symbol": "CU8888.SHFE",
+        "setting": {
+            "class_name": "FALRealStrategy",
+            "sma_n": 40,
+            "atr_n": 40,
+            "kk_dev": 1.6,
+            "trailing_percent": 1.4,
+            "stop": 0,
+            "atr_ratio": 0.5,
+            "cci_window": 10,
+            "fixed_size": 1
+        }
+    },
+    "Y_FAL_005": {
+        "class_name": "FALRealStrategy",
+        "vt_symbol": "Y8888.DCE",
+        "setting": {
+            "class_name": "FALRealStrategy",
+            "sma_n": 40,
+            "atr_n": 40,
+            "kk_dev": 1.6,
+            "trailing_percent": 1.4,
+            "stop": 0,
+            "atr_ratio": 0.5,
+            "cci_window": 10,
+            "fixed_size": 2
+        }
+    },
+    "I_FAL_006": {
+        "class_name": "FALRealStrategy",
+        "vt_symbol": "I8888.DCE",
+        "setting": {
+            "class_name": "FALRealStrategy",
+            "sma_n": 40,
+            "atr_n": 40,
+            "kk_dev": 1.6,
+            "trailing_percent": 1.4,
+            "stop": 0,
+            "atr_ratio": 0.5,
+            "cci_window": 10,
+            "fixed_size": 1
+        }
+    },
+    "C_FAL_007": {
+        "class_name": "FALRealStrategy",
+        "vt_symbol": "C8888.DCE",
+        "setting": {
+            "class_name": "FALRealStrategy",
+            "sma_n": 40,
+            "atr_n": 40,
+            "kk_dev": 1.6,
+            "trailing_percent": 1.4,
+            "stop": 0,
+            "atr_ratio": 0.5,
+            "cci_window": 10,
+            "fixed_size": 3
+        }
+    },
+    "JD_FAL_008": {
+        "class_name": "FALRealStrategy",
+        "vt_symbol": "JD8888.DCE",
+        "setting": {
+            "class_name": "FALRealStrategy",
+            "sma_n": 40,
+            "atr_n": 40,
+            "kk_dev": 1.6,
+            "trailing_percent": 1.4,
+            "stop": 0,
+            "atr_ratio": 0.5,
+            "cci_window": 10,
+            "fixed_size": 2
+        }
+    },
+    "十年国债": {
+        "class_name": "FreqChannelStrategy",
+        "vt_symbol": "T8888.CFFEX",
+        "setting": {
+            "class_name": "FreqChannelStrategy",
+            "boll_window": 16,
+            "boll_dev": 3.0,
+            "cci_window": 10,
+            "atr_window": 12,
+            "sl_multiplier": 6.0,
+            "fixed_size": 1
+        }
+    }
+}

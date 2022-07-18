@@ -1,0 +1,91 @@
+{
+    "date": "2022-06-01",
+    "套利策略[M8888<->RM8888],m2109.DCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "套利策略[M8888<->RM8888],RM109.CZCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "SpreadTrading_rb_12_10,rb2201.SHFE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "SpreadTrading_rb_12_10,rb2110.SHFE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "CtaStrategy_日内策略-玉米,c2109.DCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "ManualTrading,j2201.DCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "CtaStrategy_RB_FAL_002,rb2201.SHFE": {
+        "open_pos": 10,
+        "last_pos": 10
+    },
+    "CtaStrategy_J_FAL_001,j2201.DCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "套利策略,CF201.CZCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "套利策略,CY201.CZCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "横截面动量策略,MA201.CZCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "CtaStrategy_CU_FAL_004,cu2110.SHFE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "CtaStrategy_Y_FAL_005,y2201.DCE": {
+        "open_pos": 6,
+        "last_pos": 6
+    },
+    "CtaStrategy_AP_FAL_003,AP201.CZCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "CtaStrategy_Y_FAL_006,i2201.DCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "CtaStrategy_CU_FAL_004,cu2111.SHFE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "CtaStrategy_Y_FAL_007,c2201.DCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "CtaStrategy_Y_FAL_008,jd2201.DCE": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "CtaStrategy_C_FAL_007,c2201.DCE": {
+        "open_pos": 6,
+        "last_pos": 6
+    },
+    "CtaStrategy_I_FAL_006,i2201.DCE": {
+        "open_pos": 2,
+        "last_pos": 2
+    },
+    "CtaStrategy_十年国债,T2112.CFFEX": {
+        "open_pos": 0,
+        "last_pos": 0
+    },
+    "CtaStrategy_JD_FAL_008,jd2201.DCE": {
+        "open_pos": 4,
+        "last_pos": 4
+    }
+}

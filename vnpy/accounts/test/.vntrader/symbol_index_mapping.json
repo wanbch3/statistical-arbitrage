@@ -1,0 +1,354 @@
+{
+    "mapping": {
+        "TA": {
+            "symbol": "TA201.CZCE",
+            "open_interest": 1577318.0,
+            "volume": 2120226.0
+        },
+        "M": {
+            "symbol": "m2201.DCE",
+            "open_interest": 1189188.0,
+            "volume": 1104127.0
+        },
+        "RB": {
+            "symbol": "rb2201.SHFE",
+            "open_interest": 1108556.0,
+            "volume": 2471691.0
+        },
+        "MA": {
+            "symbol": "MA201.CZCE",
+            "open_interest": 887283.0,
+            "volume": 879798.0
+        },
+        "FG": {
+            "symbol": "FG201.CZCE",
+            "open_interest": 347910.0,
+            "volume": 385895.0
+        },
+        "HC": {
+            "symbol": "hc2201.SHFE",
+            "open_interest": 287169.0,
+            "volume": 431301.0
+        },
+        "C": {
+            "symbol": "c2201.DCE",
+            "open_interest": 539311.0,
+            "volume": 716915.0
+        },
+        "CF": {
+            "symbol": "CF201.CZCE",
+            "open_interest": 472014.0,
+            "volume": 382462.0
+        },
+        "Y": {
+            "symbol": "y2201.DCE",
+            "open_interest": 397268.0,
+            "volume": 611050.0
+        },
+        "SR": {
+            "symbol": "SR201.CZCE",
+            "open_interest": 431555.0,
+            "volume": 412606.0
+        },
+        "I": {
+            "symbol": "i2201.DCE",
+            "open_interest": 483164.0,
+            "volume": 566586.0
+        },
+        "RM": {
+            "symbol": "RM201.CZCE",
+            "open_interest": 426081.0,
+            "volume": 989747.0
+        },
+        "V": {
+            "symbol": "v2201.DCE",
+            "open_interest": 370491.0,
+            "volume": 495444.0
+        },
+        "AP": {
+            "symbol": "AP201.CZCE",
+            "open_interest": 177993.0,
+            "volume": 107045.0
+        },
+        "P": {
+            "symbol": "p2201.DCE",
+            "open_interest": 350516.0,
+            "volume": 1093667.0
+        },
+        "PP": {
+            "symbol": "pp2201.DCE",
+            "open_interest": 329826.0,
+            "volume": 726836.0
+        },
+        "AG": {
+            "symbol": "ag2112.SHFE",
+            "open_interest": 348377.0,
+            "volume": 558217.0
+        },
+        "L": {
+            "symbol": "l2201.DCE",
+            "open_interest": 254931.0,
+            "volume": 373361.0
+        },
+        "FU": {
+            "symbol": "fu2201.SHFE",
+            "open_interest": 263322.0,
+            "volume": 829521.0
+        },
+        "SA": {
+            "symbol": "SA201.CZCE",
+            "open_interest": 260288.0,
+            "volume": 167115.0
+        },
+        "BU": {
+            "symbol": "bu2112.SHFE",
+            "open_interest": 233207.0,
+            "volume": 317526.0
+        },
+        "AL": {
+            "symbol": "al2201.SHFE",
+            "open_interest": 218093.0,
+            "volume": 504327.0
+        },
+        "ZC": {
+            "symbol": "ZC201.CZCE",
+            "open_interest": 93236.0,
+            "volume": 95160.0
+        },
+        "EG": {
+            "symbol": "eg2201.DCE",
+            "open_interest": 132857.0,
+            "volume": 174820.0
+        },
+        "RU": {
+            "symbol": "ru2201.SHFE",
+            "open_interest": 198705.0,
+            "volume": 449105.0
+        },
+        "CU": {
+            "symbol": "cu2112.SHFE",
+            "open_interest": 155384.0,
+            "volume": 138708.0
+        },
+        "SM": {
+            "symbol": "SM201.CZCE",
+            "open_interest": 202369.0,
+            "volume": 387744.0
+        },
+        "J": {
+            "symbol": "j2201.DCE",
+            "open_interest": 148060.0,
+            "volume": 330297.0
+        },
+        "OI": {
+            "symbol": "OI201.CZCE",
+            "open_interest": 192471.0,
+            "volume": 472193.0
+        },
+        "SF": {
+            "symbol": "SF201.CZCE",
+            "open_interest": 231134.0,
+            "volume": 494321.0
+        },
+        "JM": {
+            "symbol": "jm2201.DCE",
+            "open_interest": 209775.0,
+            "volume": 447524.0
+        },
+        "EB": {
+            "symbol": "eb2112.DCE",
+            "open_interest": 79567.0,
+            "volume": 226190.0
+        },
+        "NI": {
+            "symbol": "ni2112.SHFE",
+            "open_interest": 105554.0,
+            "volume": 397944.0
+        },
+        "CS": {
+            "symbol": "cs2201.DCE",
+            "open_interest": 112310.0,
+            "volume": 172597.0
+        },
+        "JD": {
+            "symbol": "jd2201.DCE",
+            "open_interest": 138443.0,
+            "volume": 283763.0
+        },
+        "SP": {
+            "symbol": "sp2112.SHFE",
+            "open_interest": 83719.0,
+            "volume": 217963.0
+        },
+        "T": {
+            "symbol": "T2112.CFFEX",
+            "open_interest": 127340.0,
+            "volume": 53560.0
+        },
+        "AU": {
+            "symbol": "au2112.SHFE",
+            "open_interest": 153130.0,
+            "volume": 178012.0
+        },
+        "UR": {
+            "symbol": "UR201.CZCE",
+            "open_interest": 66620.0,
+            "volume": 88891.0
+        },
+        "IF": {
+            "symbol": "",
+            "open_interest": 0,
+            "volume": 0
+        },
+        "PF": {
+            "symbol": "PF201.CZCE",
+            "open_interest": 88101.0,
+            "volume": 79015.0
+        },
+        "ZN": {
+            "symbol": "zn2201.SHFE",
+            "open_interest": 76869.0,
+            "volume": 156538.0
+        },
+        "A": {
+            "symbol": "a2201.DCE",
+            "open_interest": 164560.0,
+            "volume": 176780.0
+        },
+        "LU": {
+            "symbol": "lu2201.INE",
+            "open_interest": 15389.0,
+            "volume": 61613.0
+        },
+        "IC": {
+            "symbol": "",
+            "open_interest": 0,
+            "volume": 0
+        },
+        "SS": {
+            "symbol": "ss2201.SHFE",
+            "open_interest": 55150.0,
+            "volume": 139708.0
+        },
+        "TF": {
+            "symbol": "TF2112.CFFEX",
+            "open_interest": 51531.0,
+            "volume": 18699.0
+        },
+        "PB": {
+            "symbol": "pb2112.SHFE",
+            "open_interest": 51951.0,
+            "volume": 56654.0
+        },
+        "PG": {
+            "symbol": "pg2112.DCE",
+            "open_interest": 52419.0,
+            "volume": 245292.0
+        },
+        "IH": {
+            "symbol": "",
+            "open_interest": 0,
+            "volume": 0
+        },
+        "CJ": {
+            "symbol": "CJ201.CZCE",
+            "open_interest": 49620.0,
+            "volume": 190830.0
+        },
+        "SC": {
+            "symbol": "sc2112.INE",
+            "open_interest": 8747.0,
+            "volume": 5408.0
+        },
+        "NR": {
+            "symbol": "nr2201.INE",
+            "open_interest": 22187.0,
+            "volume": 28474.0
+        },
+        "SN": {
+            "symbol": "sn2112.SHFE",
+            "open_interest": 36601.0,
+            "volume": 78823.0
+        },
+        "TS": {
+            "symbol": "TS2112.CFFEX",
+            "open_interest": 18185.0,
+            "volume": 6331.0
+        },
+        "B": {
+            "symbol": "b2201.DCE",
+            "open_interest": 26124.0,
+            "volume": 29242.0
+        },
+        "RR": {
+            "symbol": "rr2201.DCE",
+            "open_interest": 16406.0,
+            "volume": 26772.0
+        },
+        "BC": {
+            "symbol": "bc2201.INE",
+            "open_interest": 6454.0,
+            "volume": 14330.0
+        },
+        "PK": {
+            "symbol": "PK201.CZCE",
+            "open_interest": 35520.0,
+            "volume": 14304.0
+        },
+        "LH": {
+            "symbol": "lh2201.DCE",
+            "open_interest": 36706.0,
+            "volume": 23213.0
+        },
+        "CY": {
+            "symbol": "CY201.CZCE",
+            "open_interest": 8478.0,
+            "volume": 6304.0
+        },
+        "FB": {
+            "symbol": "fb2201.DCE",
+            "open_interest": 42.0,
+            "volume": 28.0
+        },
+        "WH": {
+            "symbol": "",
+            "open_interest": 0,
+            "volume": 0
+        },
+        "RS": {
+            "symbol": "",
+            "open_interest": 0,
+            "volume": 0
+        },
+        "WR": {
+            "symbol": "wr2202.SHFE",
+            "open_interest": 51.0,
+            "volume": 95.0
+        },
+        "BB": {
+            "symbol": "",
+            "open_interest": 0,
+            "volume": 0
+        },
+        "PM": {
+            "symbol": "",
+            "open_interest": 0,
+            "volume": 0
+        },
+        "RI": {
+            "symbol": "RI201.CZCE",
+            "open_interest": 7.0,
+            "volume": 52.0
+        },
+        "JR": {
+            "symbol": "JR201.CZCE",
+            "open_interest": 31.0,
+            "volume": 24.0
+        },
+        "LR": {
+            "symbol": "",
+            "open_interest": 0,
+            "volume": 0
+        }
+    }
+}
